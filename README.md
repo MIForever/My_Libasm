@@ -18,7 +18,10 @@ Once you have downloaded it you make it using makefile which creates executable 
 
 You can change, play around with <b>.c</b> files located in <i>source_c</i> folder and remake it using make command.
 Once the executables built, you can get the outputs by just running them
-
+```
+make
+```
+After building enter:
 ```
 ./execute_my_*
 ```
